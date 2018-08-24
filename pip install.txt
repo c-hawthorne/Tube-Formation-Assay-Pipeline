@@ -1,0 +1,10 @@
+pip install scikit-image
+pip install exifread
+pip install imageio
+pip install matplotlib
+pip install numpy
+pip install scipy
+pip install pandas
+pip install skan
+pip install opencv-python
+pip install tifffile
